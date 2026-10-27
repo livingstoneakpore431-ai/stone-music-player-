@@ -1,3 +1,4 @@
+
 {
   "name": "Stone Music Player",
   "short_name": "Stone",
@@ -6,5 +7,19 @@
   "display": "standalone",
   "background_color": "#121212",
   "theme_color": "#121212",
-  "description": "Your personal music player"
+  "description": "Your personal music player",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
 }
