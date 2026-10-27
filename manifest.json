@@ -1,0 +1,10 @@
+{
+  "name": "Stone Music Player",
+  "short_name": "Stone",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "description": "Your personal music player"
+}
